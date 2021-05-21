@@ -38,12 +38,12 @@
         <aside>
             <div id="namecard">
                 <img src="images/pf.jpg" alt="">
-                <h1>Kyunghee Ko</h1>    
+                <h1>Jeonhyewon</h1>    
                 <p>오늘은 남은 인생이 시작되는 첫째날</p>
             </div>
             <div id="detail">
-                <p>Jeju, Korea</p>
-                <p>funcom@gmail.com</p>                                 
+                <p>hampyeong, Korea</p>
+                <p>tlsrhkd5023@naver.com</p>                                 
             </div>
             <div id="sns">
                 <h2>SNS</h2>
@@ -52,7 +52,7 @@
 						<a href="https://www.facebook.com/funnycom">github</a>
 					</li>
 					<li>
-						<a href="https://www.twitter.com/funnycom">google</a>
+						<a href="https://www.google.com/funnycom">google</a>
 					</li>
 				</ul>  
             </div>           
@@ -70,7 +70,7 @@
                 <ul>
                     <li>미스터트롯
                         <ul>
-                            <li>잉영웅</li>
+                            <li>임영웅</li>
                             <li>김희재</li>
                             <li>정동원</li> 
                         </ul>
